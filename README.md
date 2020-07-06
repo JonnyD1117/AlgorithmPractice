@@ -1,6 +1,6 @@
 # AlgorithmPractice
 
-## ARAVIND Readme Changes
+
 This is a test to see if Slack will notify us for Github Commits. 
 
 * I think that this should work 
